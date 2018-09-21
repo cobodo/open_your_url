@@ -1,14 +1,14 @@
 ---
-slug: :show_tweet
+slug: :open_your_url
 depends:
-  mikutter: '3.2'
+  mikutter: '3.8'
   plugin:
   - command
   - gtk
   - gui
   - activity
 version: '1.0'
-author: osa_k
-name: URL指定でツイートを開くやつ
-description: URL指定でツイートを開けます。
-repository: git://git.github.com/osak/show_tweet.git
+author: cobodo
+name: URLを開くやつ
+description: URL指定でなんでも開けます。
+repository: https://git.github.com/cobodo/open_your_url.git
